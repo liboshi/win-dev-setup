@@ -1,0 +1,8 @@
+BoldAsFont=no
+Font=Monaco
+FontHeight=11
+Columns=200
+Rows=55
+Transparency=off
+FontIsBold=no
+Term=xterm
