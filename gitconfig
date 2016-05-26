@@ -1,8 +1,6 @@
 [user]
-	email = boshil@vmware.com
+	email = boush.li@outlook.com
 	name = Boshi Li
-[url "https://"]
-	insteadOf = git://
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
